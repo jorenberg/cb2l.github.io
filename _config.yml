@@ -1,0 +1,4 @@
+# _config.yml, for metadata of CB2L®.
+# @require  : assemble
+# @task     : ./config/assembler.js
+# @author   : Prabhat Kumar, http://prabhatkumar.org/.
