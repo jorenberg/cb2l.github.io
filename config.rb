@@ -18,3 +18,6 @@
 # -----------------------------------------
 # Principle  : Standard Module Definition
 # -----------------------------------------
+
+# Sass - (3.4.21)     : Selective Steve
+# Compass - (v1.0.3)  : Polaris
